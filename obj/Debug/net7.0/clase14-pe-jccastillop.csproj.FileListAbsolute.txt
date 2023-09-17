@@ -1,0 +1,14 @@
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\bin\Debug\net7.0\clase14-pe-jccastillop.exe
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\bin\Debug\net7.0\clase14-pe-jccastillop.deps.json
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\bin\Debug\net7.0\clase14-pe-jccastillop.runtimeconfig.json
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\bin\Debug\net7.0\clase14-pe-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\bin\Debug\net7.0\clase14-pe-jccastillop.pdb
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.AssemblyInfoInputs.cache
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.AssemblyInfo.cs
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.csproj.CoreCompileInputs.cache
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\refint\clase14-pe-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.pdb
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\clase14-pe-jccastillop.genruntimeconfig.cache
+C:\Users\jccp5\OneDrive\Escritorio\ESCRITORIO\UNIVO\UNIVO CICLO II\Programación Extructurada\Clase 14\clase14-pe-jccastillop\obj\Debug\net7.0\ref\clase14-pe-jccastillop.dll
